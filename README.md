@@ -48,16 +48,16 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+No outisde resources were use.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+A challenge I encountered in the creation of this submission was when implementing the feature of sounds for the buttons. The instructions stated, at the top of your script.js files, add another two Global Variables that were given. After copying and pasting the 2 global variables, I proceeded to add the code for generating sounds to the bottom of the script.js file. As I added the code, many lines of the code I had added were red with error warnings appearing. The message of the error warning was that tonePlaying was not defined.  I looked back at the variables and could not find the tonePlaying variable. Looking at the previous step in the instructions, I could see where I had made my mistake, “at the top of your script.js files”. I had interpreted “at the top”, as the first line of the file. It was there where I would also find another mistake. Copying exactly from the instructions, one of the lines was commented out, “// var tonePlaying = false”. After removing the comment and rearranging the variables to the global variables area, I was able to resolve the issue I encountered. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing my submission and seeing how web pages are developed, I have questions regarding how websites can be optimized for so many different devices. Websites can be browsed from so many different devices, with the experience on most devices being very similar. For example, devices such as smartphones are mostly used in vertical or portrait style, while computers and most larger devices are use in horizontal or landscape style. How can websites be work so well on such a wide array of devices? With my submission, I had a hard time managing the preview of the game on just one screen. The way the buttons in the game would move depending on the size of the windows did not feel very polished and I was not very pleased with the way it came out. Optimizing the way web pages adjust to the devices display would be something I would like to learn about.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had more time to work on this project, I would like to improve the layout of the buttons. The way the buttons adjust depending on the size of the window was not aesthetically pleasing. I felt that with more time, it is something that could be fixed and it would greatly help with the visuals of the game. The pattern of the game was also something I would have like to work on more. An idea I had considered was possibly adjust the timing, sounds, and selection of buttons to match up with the tune or beat of a familiar song. 
 
 
 
