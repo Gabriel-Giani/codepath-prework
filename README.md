@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](http://recordit.co/L2xjrh4cTs)
+![http://recordit.co/L2xjrh4cTs](gif1-link-here)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
