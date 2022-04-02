@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![http://g.recordit.co/L2xjrh4cTs.gif](http://g.recordit.co/L2xjrh4cTs.gif)
-![http://recordit.co/keSJaevCUs](http://recordit.co/keSJaevCUs)
+![http://g.recordit.co/keSJaevCUs.gif](http://g.recordit.co/keSJaevCUs.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
